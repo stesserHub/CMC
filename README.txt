@@ -1,0 +1,1 @@
+This project contains files for operating and interfacing a Centrifugal Mold Caster based on Arduino
